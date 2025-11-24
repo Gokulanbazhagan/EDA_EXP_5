@@ -36,8 +36,8 @@ To perform bivariate analysis on COVID-19 data and study the relationship betwee
 
 **Program**
 ```
-Devoloped by: DARIO G
-Reg NO: 212222230027
+Devoloped by: GOKULARAMANAN K
+Reg NO: 212222230040
 ```
 
 ~~~py
